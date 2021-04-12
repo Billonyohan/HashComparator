@@ -12,6 +12,7 @@ Install the dependencies
 ```sh
 $ git clone https://github.com/Billonyohan/HashComparator
 $ gcc -o main main.c
+```
 
 OR Run 
 
